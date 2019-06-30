@@ -1,0 +1,44 @@
+{
+  "name": "javascript-exercise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "socket.io": "^2.2.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.3",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.2"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
