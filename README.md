@@ -1,16 +1,16 @@
-# Twitter stream viewer
+# Twitter Streaming Viewer
 
-A React + NodeJS application that fetches tweets from Twitter stream API.
+A ReactJS + NodeJS application that fetches tweets from Twitter stream API.
 
 State managed with redux and Redux-Saga.
 
 ## Requirements
 
-Node JS and npm.
+Node JS, NPM and Git 
 
 ## Installation
 
-Clone this repository
+**Clone this repository**
 
 	git clone repo
 
@@ -20,7 +20,7 @@ Install dependencies
 
 Install nodemon global
 
-    npm install -g nodemon
+	npm install -g nodemon
 
 Start backend server
 
